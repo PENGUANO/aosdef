@@ -1,0 +1,92 @@
+Project Principles
+- Essential idea: preserve the current design but with a total freedom of what the community wants to offer the community.
+- The game must be free and self sustainable.
+- It will have backward compatibility with servers 0.75 and 0.76, the anti-hacking information of this new client can be obtained by any server, even if it is of these versions externally, so there will be no problem if someone
+He wants to play in the Build and Shoot launcher.
+CONTENT
+OBJECTIVES
+- Purpose
+- Developing
+WHAT IS GOING TO BE DEVELOPED?
+
+Only an extension will be added to current customers (OpenSpades and Betterspades) to add total freedom to the game. Compatibility with previous versions will be retained but
+I will add this option separately.
+This extension should serve both clients so the libraries have to be compatible.
+NEWS TO BE DEVELOPED
+- You have to have an open source implementation for different programming languages, not just phyton, this will add more stability.
+- The game will expand to add more details that make game modes more interesting (Title images, custom screen texts.
+- Keep the option of modifiable hotkeys and add support for external buttons / macros. These will have to have an alternative text mandatory for old customers).
+- The user can choose between the graphic engines and design of the varied voxlap clients (Betterspades, Openspades)
+- Expand the reasons for expulsion and banning.
+- Add a left handed system.
+- Multilanguage
+- If the player belongs to a clan, the logo of this clan will appear next to the username each time you send a message, IT WILL NOT APPEAR ON THE PLAYERS TABLE.
+- The game will expand to add more details that make the game modes more interesting (Title images, custom screen texts. (These will have to have an alternative text mandatory for old customers).
+- Antihack
+- Antihacking options
+- Human labor
+- The game will implement an improved PUBOVL included that cannot be modified for use in normal mode, it can only be used in spectator mode with more detailed user information (Client, death / withdrawal ratio, aim, etc.) Human power will be preserved where there are special cases.
+- Cybernetic workforce
+- You have to have an anti hacking system that shows all the client information, the antihack system should be impossible to modify if the original decryptor is not contained (Maybe a quantum encryptor).
+The user can choose between these two graphic engines, so we do not waste time having to design the game again.
+- The number of players will be expanded to a maximum of 200 per game.
+SOMETIMES TO DEVELOP BUT NOT VERY IMPORTANT
+- Translator linked to a translation company, maybe google.
+- Offline mode
+- Determine if an account system that works with the Build and Shoot page would work. - The game will be the combination of both OpenGL clients, it will contain a Mod creator that will help make animations in the Openspades version but that will not work in the design Betterspades type.
+ONLY DEVELOP IF THE RESOURCES ARE OWNED TO DO IT
+- Virtual Reality (VR)
+- Playable version within an internet browser
+IT WILL DEFINITELY NOT BE DEVELOPED
+- It will not have a musical theme, it will preserve the simple essence of the game. However, the sound of the guitar will be preserved, if possible, re-record the sound.
+- No human element will be interposed in the ideas and creativity that the developers of the new clients (yvt and ByteBit) nor in what they planned to add to their original clients unless they break the essential rule of this new client.
+- There will be no type of Minecraft style custom skin, no server should add this option, ONLY MODIFY THE GENERAL ASPECTS OF THE EQUIPMENT
+- There will be no new weapons, the original weapons will be retained and will only be modified as indicated by the server being played.
+- A voice chat will not take place inside the server
+- Reasons
+- Alternatives
+- No for-profit business development team will be involved in the project, call Jagex, call anything else.
+- DLCs, micropayments or total payments.
+PROJECT DEVELOPERS
+Only specialized and limited people will develop it for the following cases.
+- Game client developers
+- External game developers
+- Terms
+- Keep your development secret.
+- Do not reveal the conditions of development.
+- Not belonging to any video game developer
+ADMINISTRATION
+- Principles of administration
+- Old versions
+- For the game to detect that this new client is being used, the server will ask the game to send information, if the game does not respond, it means that it is playing on an old client but if it responds by sending its client information (used to the anti hacking / anti manipulation of the client) means that he uses this client.
+-Changes and rules
+- Rules and limitations to servers.
+TOTALLY FORBIDDEN
+- Let users use hacks or exploits within their servers
+- Place a subscription system (pay to obtain a range or special permits)
+- Pay to win system
+- Abuse of power
+- Omission to those who break the rules of the server.
+- Allow spam and unwanted content.
+PERMITTED ALLOWED
+- Sound locator (Temporarily reveal the enemy's position)
+ALLOWED
+- New game modes
+Freedoms
+- The game modes may mimic game modes of other video games that have appeared in general (Example. CTF, TD)
+Limitations
+- No registered names or game mode marks taken from other videogames will be used (enter an example of call of duty)
+- No game modes such as role play or story mode will be used
+(Place reasons)
+- Custom weapons
+- Custom skins for players
+- Do not break the development law specified for these skins
+- Player benefits
+- Example: Every certain number of deaths, get more speed and better aim
+- Map voting
+- Penalties to hack generators and users using in-game traps.
+- Penalties for attempts to copy or steal total or partial content (Copyright and legal things).
+- Support for content creators for the game (map and mod makers)
+- Promotion
+- In-game rewards
+- Official acknowledgments
