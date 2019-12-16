@@ -8,6 +8,4 @@ The objectives that this project seeks are:
 
 - Delete all the limitations that the master server and the game in general offer when trying to implement new game modes and / or elements within the game.
 
-- Fix the game problems and community problems.
-
 - Make Ace of Spades great again.
